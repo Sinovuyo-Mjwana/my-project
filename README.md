@@ -15,3 +15,10 @@ Browse through the sections to explore my work.
 ## Contributors
 
 - [Sinovuyo Mjwana (https://github.com/Sinovuyo-Mjwana)
+
+## Skills
+
+- Excellent communication skills
+- organised
+- Github
+- Markdown
